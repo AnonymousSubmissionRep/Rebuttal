@@ -31,7 +31,9 @@ A_{\mathrm{diag}} & R_A^T \\
 R_A & R_R
 \end{bmatrix}
 $$
+
 where $A_{\mathrm{diag}} = \mathrm{Diag}(A^{(1)},A^{(2)},\cdots,A^{(M)})$, $R_A=\mathrm{Stack}(R_A^{(1)},R_A^{(2)},\cdots,R_A^{(M)})$, $R_R=\mathbb{1}^{M\times M}$. $\mathrm{Diag}$ means concatenating matrices diagonally, and $\mathrm{Stack}$ means stacking row-vectors into a matrix. Specifically, $R_A^{(i)}\in \mathbb{R}^{\sum_k^M|\mathcal{V}^{(k)}|}$ and we have the $j$th value of $R_A^{(i)}$ as 
+
 $$
 R_{A}^{(i)}(j) = 
 \begin{cases}
