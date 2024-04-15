@@ -1,6 +1,6 @@
 Dear Reviewer hFUg,
 
-Thanks for your insightful comments and time again. We also appreciate that you give us the chance to clarify our work further. Here are some supplementary experimental results and clarification of our rebuttal:
+Thanks for your insightful comments and time again. We also appreciate that you give us the chance to clarify our work further. Here are some supplementary clarification and experimental results of our rebuttal:
 
 > Con1: Difference with other methods.
 
