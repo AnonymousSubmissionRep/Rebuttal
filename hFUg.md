@@ -1,12 +1,12 @@
 Dear Reviewer hFUg,
 
-Thanks for your insightful comments and time again. We also appreciate that you give us the chance to further clarify our work. Here are some supplementary experimental results and clarification of our rebuttal:
+Thanks for your insightful comments and time again. We also appreciate that you give us the chance to clarify our work further . Here are some supplementary experimental results and clarification of our rebuttal:
 
 > Con1: Difference with other methods.
 
 Except for the contents mentioned in the rebuttal, we'd like to facilitate a better understanding of **our unique design and why it works** through the 'Interdisciplinary Teaching', which is a cutting-edge approach in the field of education:
 
-    'Interdisciplinary Teaching' aims to **enhance the comprehensiveness and depth of learning by integrating knowledge and methods from 👉different subjects (w.r.t diverse graph datasets)👈**. It addresses the complexity of real-world problems (w.r.t diverse and complex structures, attributes, structure and attribute patterns) requiring a multidisciplinary perspective for solutions and encouraging students to apply cross-domain knowledge. This approach leads to a more thorough understanding and higher-level thinking skills (w.r.t transferrable pretrained graph representations). The teaching strategy highlights **👉the connections between subjects (implemented by learnable graph coordinators)👈**, asking teachers to design courses that reflect core concepts of the disciplines while fostering interaction among them. This helps students see the bridges between subjects, nurturing flexible and innovative thinking (w.r.t. transferring to new downstream datasets, especially the few-shot scenarios).
+'Interdisciplinary Teaching' aims to **enhance the comprehensiveness and depth of learning by integrating knowledge and methods from 👉different subjects (w.r.t diverse graph datasets)👈**. It addresses the complexity of real-world problems (w.r.t diverse and complex structures, attributes, structure and attribute patterns) requiring a multidisciplinary perspective for solutions and encouraging students to apply cross-domain knowledge. This approach leads to a more thorough understanding and higher-level thinking skills (w.r.t transferrable pretrained graph representations). The teaching strategy highlights **👉the connections between subjects (implemented by learnable graph coordinators)👈**, asking teachers to design courses that reflect core concepts of the disciplines while fostering interaction among them. This helps students see the bridges between subjects, nurturing flexible and innovative thinking (w.r.t. transferring to new downstream datasets, especially the few-shot scenarios).
 
 > Con3: Comparision with cross-domain graph dataset pretraining and transferring achieved by All-in-one and projection.
 
