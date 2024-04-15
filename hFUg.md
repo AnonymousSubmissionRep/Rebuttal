@@ -1,6 +1,3 @@
-# Rebuttal
-Rebuttal for KDD 2024
-
 Dear Reviewer hFUg,
 
 Thanks for your insightful comments and time again. We also appreciate that you give us the chance to further clarify our work. Here are some supplementary experimental results and clarification of our rebuttal:
